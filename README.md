@@ -1,0 +1,1 @@
+# devel-oracle_woocommerce_integration_outline
